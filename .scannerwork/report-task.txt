@@ -1,0 +1,6 @@
+projectKey=P2_Espinoza_Joel_Conjuntos
+serverUrl=http://200.9.176.59:9000
+serverVersion=7.1.0.11001
+dashboardUrl=http://200.9.176.59:9000/dashboard/index/P2_Espinoza_Joel_Conjuntos
+ceTaskId=AWeA8_eV3a82Mq04_t6D
+ceTaskUrl=http://200.9.176.59:9000/api/ce/task?id=AWeA8_eV3a82Mq04_t6D
